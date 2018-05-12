@@ -1,0 +1,40 @@
+_repo: Sir-Harry-Hotspur-of-Humblethwaite_27712
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "Sir Harry Hotspur of Humblethwaite, by Anthony Trollope, is a novel\
+  \ originally published in Macmillan's Magazine between May and December, 1870, and\
+  \ in novel form in 1871.\nThe novel offers psychological dissection of the issues\
+  \ of inheritance, filial duty, noblesse oblige, gentlemanly behaviour, repentance\
+  \ and love, all hung upon the story of the wooing and losing of Sir Harry Hotspur's\
+  \ daughter (and heir to his property), Emily, by their \"scamp\" of a cousin (and\
+  \ heir to Sir Harry's baronetcy), Captain George Hotspur.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2009-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27712'
+  lccn: 08028878
+  wikidata: Q7527051
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cumberland (England) -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Fathers and daughters -- Fiction'
+title: Sir Harry Hotspur of Humblethwaite
+url: http://www.gutenberg.org/ebooks/27712
+wikipedia:
+- https://en.wikipedia.org/wiki/Sir_Harry_Hotspur_of_Humblethwaite
